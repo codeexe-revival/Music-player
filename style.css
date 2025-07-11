@@ -1,0 +1,88 @@
+body {
+  margin: 0;
+  font-family: 'Segoe UI', sans-serif;
+  background-color: #0f0f0f;
+  color: #fff;
+}
+.hero {
+  background: url('https://images.unsplash.com/photo-1507874457470-272b3c8d8ee2?auto=format&fit=crop&w=1470&q=80') no-repeat center center/cover;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  text-align: center;
+}
+.overlay {
+  background: rgba(0, 0, 0, 0.7);
+  padding: 2rem;
+  border-radius: 12px;
+}
+.overlay h1 {
+  font-size: 3rem;
+  color: #fff;
+}
+.overlay p {
+  font-size: 1.2rem;
+  margin: 1rem 0;
+}
+.overlay button {
+  background-color: #e91e63;
+  border: none;
+  padding: 0.8rem 1.5rem;
+  color: #fff;
+  font-size: 1rem;
+  border-radius: 25px;
+  cursor: pointer;
+}
+section {
+  padding: 2rem 1rem;
+  text-align: center;
+  background: #1a1a1a;
+  margin-bottom: 1rem;
+}
+h2 {
+  color: #e91e63;
+  margin-bottom: 1rem;
+}
+ul {
+  list-style: none;
+  padding: 0;
+}
+ul li {
+  margin: 0.5rem 0;
+}
+.socials a {
+  margin: 0 0.5rem;
+  text-decoration: none;
+  color: #fff;
+  background-color: #333;
+  padding: 0.6rem 1rem;
+  border-radius: 20px;
+}
+.footer {
+  background-color: #111;
+  color: #aaa;
+  text-align: center;
+  padding: 1rem;
+}
+.download{
+  padding: 1rem;
+  background-color: #e91e63;
+  border-radius: 27px;
+  margin-top: 25px;
+  width: 100px;
+}
+.download a{
+    text-decoration: none;
+    font-size: 1.0rem;
+    color: #fff;
+  }
+  .music-player{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    flex-direction: column;
+    
+  }
