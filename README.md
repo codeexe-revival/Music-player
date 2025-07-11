@@ -27,11 +27,6 @@ You can play local music files, enjoy dark mode, see a live visualizer, and togg
 - CSS3 (Flexbox & Grid)
 - Vanilla JavaScript
 
----
-
-## 📸 Screenshots
-
-> (Add screenshots here if you want to show off the player UI)
 
 ---
 
